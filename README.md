@@ -1,6 +1,4 @@
-##Instructions
-------------
-
+# Instructions
 Disclaimer: This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY. YOU USE AT YOUR OWN RISK.
 
@@ -10,10 +8,10 @@ This script sets and unsets proxy since some Corporates/Colleges/Universities re
 
 2.If authentication is required do this:
 
-http_proxy=http://username:passwd@proxy:port
-ftp_proxy=http://username:passwd@proxy:port
-all_proxy=http://username:passwd@proxy:port
-https_proxy=http://username:passwd@proxy:port
+     http_proxy=http://username:passwd@proxy:port
+     ftp_proxy=http://username:passwd@proxy:port
+     all_proxy=http://username:passwd@proxy:port
+     https_proxy=http://username:passwd@proxy:port
 
 3.Otherwise if authentication is not required,replace 'username:port' with appropriate address and port e.g `https_proxy=http://192.168.0.254:3128/`
 
