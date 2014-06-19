@@ -1,5 +1,5 @@
 # Instructions
-## Disclaimer: This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY. YOU USE AT YOUR OWN RISK.
+#### This program is distributed in the hope that it will be useful, but without any warranty. Use it at your own risk.
 
 This script sets and unsets proxy since some Corporates/Colleges/Universities requires a proxy in order to access the outside network. I needed a permanent solution to access the network since some terminal applications needed them; so this script was born.
 
